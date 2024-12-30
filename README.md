@@ -4,7 +4,7 @@ This project provides a comprehensive analysis of contamination between multiple
 
 ## Features
 
-- **9x9 Mutation Matrix**:
+- **Dynamic Mutation Matrix**:
   - Each cell displays the number of shared mutations and unique mutations from the first file.
   - Format: `Shared (Unique)`.
 - **File Input**:
