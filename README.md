@@ -48,7 +48,7 @@ This project provides a comprehensive analysis of contamination between multiple
 
 ## Output
 
-- The output Excel file contains a 9x9 matrix with the following format in each cell:
+- The output Excel file contains a square matrix with the following format in each cell:
   - `Shared Mutations (Unique to File 1)`
 
 Example:
