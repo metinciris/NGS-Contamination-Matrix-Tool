@@ -1,6 +1,6 @@
 # NGS Contamination Matrix Tool
 
-This project provides a comprehensive analysis of contamination between multiple Next-Generation Sequencing (NGS) data files. It creates a 9x9 matrix showing the shared and unique mutations between every pair of files. The tool is ideal for identifying potential DNA cross-contamination or understanding similarities between datasets.
+This project provides a comprehensive analysis of contamination between multiple Next-Generation Sequencing (NGS) data files. It creates a matrix showing the shared and unique mutations between every pair of files. The tool is ideal for identifying potential DNA cross-contamination or understanding similarities between datasets.
 
 ## Features
 
